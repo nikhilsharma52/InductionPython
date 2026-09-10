@@ -1,0 +1,4 @@
+Student Summary Report
+----------------------
+Total Students: 5
+Average Marks: 78.00
