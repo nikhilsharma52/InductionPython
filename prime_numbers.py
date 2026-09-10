@@ -8,7 +8,7 @@ def is_prime(num):
 
     return True
 
-n = int(input("Enter N: "))
+n = int(input("Enter Number: "))
 
 if is_prime(n):
     print(n, "is prime")
