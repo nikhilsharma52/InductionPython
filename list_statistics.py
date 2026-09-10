@@ -13,3 +13,4 @@ minimum, maximum, average = calculate_stats(numbers)
 print("Minimum:", minimum)
 print("Maximum:", maximum)
 print("Average:", average)
+
