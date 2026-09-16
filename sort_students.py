@@ -7,3 +7,4 @@ students = [
 students.sort(key=lambda student: student["marks"])
 
 print(students)
+
